@@ -45,9 +45,9 @@ snmpfwd-client.py --config-file=client.conf --debug-snmp=msgproc
 
 ```json
 {
-	"method": "SnmpSendTestTraps",
-    "params": {},
-    "id": 1
+    "id": 1,
+    "method": "SnmpSendTestTraps",
+    "params": {}
 }
 ```
 
