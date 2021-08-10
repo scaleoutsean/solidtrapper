@@ -1,4 +1,4 @@
-## SNMP Trap Forwarding (SNMPv2 to SNMPv3) with SolidFire 12.3
+## SNMP Trap Forwarding (SNMPv2c to SNMPv3) for SolidFire 12.3 SNMP Traps
 
 As you've just read, we want to forward SNMP Traps sent by SolidFire, while converting them to SNMPv3.
 
